@@ -1,0 +1,8 @@
+{
+  "name": "Neurate AI",
+  "description": "A production-ready multi-model AI system with multimodal capabilities, real-time web search, and advanced coding assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
